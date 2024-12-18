@@ -1,0 +1,1 @@
+CREATE TABLE orders (      order_id INT PRIMARY KEY,     customer_id INT,     status VARCHAR(50) ); INSERT INTO orders VALUES (1, 101, 'Processing'), (2, 102, 'Shipped'), (3, 103, 'Pending'), (4, 101, 'Processing'), (5, 102, 'Delivered'), (6, 104, 'Processing');

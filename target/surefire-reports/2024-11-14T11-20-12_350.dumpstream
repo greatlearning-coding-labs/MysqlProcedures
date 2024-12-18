@@ -1,0 +1,5 @@
+# Created at 2024-11-14T11:20:13.003
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Great Learning References\Exercise creation\Spring-Boot-To-Spring-AOP\springaopone\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
